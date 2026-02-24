@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Save Me",
+  "base_artist": "Queen",
+  "createdAt": "2026-02-24T03:29:45.851589Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Save Me the Time",
+      "artist": "Cannibal Kids",
+      "has_synced": true,
+      "path": "select/01_Save_Me_the_Time_Cannibal_Kids.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Save Me",
+      "artist": "Nicki Minaj",
+      "has_synced": true,
+      "path": "select/02_Save_Me_Nicki_Minaj.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Save Me",
+      "artist": "Nicki Minaj",
+      "has_synced": true,
+      "path": "select/03_Save_Me_Nicki_Minaj.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "To Save Me",
+      "artist": "M. Ward",
+      "has_synced": true,
+      "path": "select/04_To_Save_Me_M._Ward.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Jesus Can't Save Me",
+      "artist": "Primal Scream",
+      "has_synced": true,
+      "path": "select/05_Jesus_Can't_Save_Me_Primal_Scream.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Save Me Now",
+      "artist": "The Servant",
+      "has_synced": true,
+      "path": "select/06_Save_Me_Now_The_Servant.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Save Me",
+      "artist": "Fleetwood Mac",
+      "has_synced": true,
+      "path": "select/07_Save_Me_Fleetwood_Mac.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Save Me",
+      "artist": "Julian Lennon",
+      "has_synced": true,
+      "path": "select/08_Save_Me_Julian_Lennon.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Save Me",
+      "artist": "Public Image Ltd.",
+      "has_synced": false,
+      "path": "select/09_Save_Me_Public_Image_Ltd..txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Save Me - Don't Break Me",
+      "artist": "Modern Talking",
+      "has_synced": true,
+      "path": "select/10_Save_Me_-_Don't_Break_Me_Modern_Talking.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Save Me Now",
+      "artist": "Billy Idol",
+      "has_synced": true,
+      "path": "select/11_Save_Me_Now_Billy_Idol.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Save Me - Ballad",
+      "artist": "Village People",
+      "has_synced": false,
+      "path": "select/12_Save_Me_-_Ballad_Village_People.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Save Me Now",
+      "artist": "Dirty Vegas",
+      "has_synced": true,
+      "path": "select/13_Save_Me_Now_Dirty_Vegas.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Don't Save Me",
+      "artist": "Haim",
+      "has_synced": true,
+      "path": "select/14_Don't_Save_Me_Haim.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Don't Save Me - Cyril Hahn Remix",
+      "artist": "Haim",
+      "has_synced": true,
+      "path": "select/15_Don't_Save_Me_-_Cyril_Hahn_Remix_Haim.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Don’t Save Me (Cyril Hahn remix)",
+      "artist": "HAIM",
+      "has_synced": true,
+      "path": "select/16_Don’t_Save_Me_(Cyril_Hahn_remix)_HAIM.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Save Me",
+      "artist": "Jem",
+      "has_synced": true,
+      "path": "select/17_Save_Me_Jem.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Save Me",
+      "artist": "Queen",
+      "has_synced": false,
+      "path": "select/pl_01_Save_Me_Queen.txt"
+    }
+  ]
+}
